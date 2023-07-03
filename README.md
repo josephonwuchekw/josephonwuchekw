@@ -65,6 +65,8 @@ I am a full-stack software engineer building my version of the digital world one
 
 <img align="left" alt="Apache" width="30px" style="margin:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 
+##
+
 # --
 
 <details>
