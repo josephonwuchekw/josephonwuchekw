@@ -65,6 +65,13 @@ I am a full-stack software engineer building my version of the digital world one
 
 <img align="left" alt="Apache" width="30px" style="margin:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 
+#
+
+<details>
+<summary><h3>Joseph's Coding Journey</h3></summary>
+After earning my Computer Science degree at the University of Texas, I worked as an intern at ItechArt Group. At first my primary role was to refactor PostgreSQL queries to optimize the queries. After a year, I got fully employed. Most of my work was on the Django backend. I created database models, refined ORM queries, and set up API endpoints. On the frontend, we used vanilla HTML, CSS and JavaScript.
+Since then, I have added several libraries and frameworks to my technology stack. However the most important thing I learnt was the ability to learn and incorporate new technologies into my work. 
+</details>
 <!--
 **josephonwuchekw/josephonwuchekw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
