@@ -1,4 +1,9 @@
-### Hi there 👋
+## Joseph Onwuchekwa 👋
+
+I am a full-stack software engineer building my version of the digital world one step at a time. All my projects are built form the ground up, from planning and designing all the way to real-life problems with code. My code has contributed to improving health care in health care applications and improved sales in businesses.
+
+- 🔭 I’m currently looking for a full stack developer job
+- 📫 How to reach me: josephonwu0@gmail.com
 
 <!--
 **josephonwuchekw/josephonwuchekw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
